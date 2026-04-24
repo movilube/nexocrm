@@ -6,7 +6,7 @@ async function sendMessage(recipientId, text) {
 
   try {
     await axios.post(
-      'https://graph.facebook.com/v18.0/me/messages',
+      'https://graph.instagram.com/v21.0/me/messages',
       { recipient: { id: recipientId }, message: { text } },
       { headers: { Authorization: `Bearer ${token}`, 'Content-Type': 'application/json' } }
     );
