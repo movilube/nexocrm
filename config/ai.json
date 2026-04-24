@@ -1,0 +1,23 @@
+{
+  "nombre_ia": "Movi",
+  "negocio": "Movilube - Servicio de mantenimiento automotriz a domicilio",
+  "saludo": "¡Hola! Soy Movi, el asistente virtual de Movilube 🚗🔧 ¿En qué puedo ayudarte hoy?",
+  "horario_atencion": "Lunes a Sábado de 8:00 a 18:00hs",
+  "zona_cobertura": "Mendoza y Gran Mendoza",
+  "servicios": [
+    "Cambio de aceite",
+    "Service completo (12 puntos de inspección)",
+    "Cambio de filtros",
+    "Cambio de batería",
+    "Fluidos y químicos",
+    "Diagnóstico computarizado (próximamente)"
+  ],
+  "escalado_frases": [
+    "quiero hablar con una persona",
+    "quiero hablar con alguien",
+    "necesito hablar con un humano",
+    "pasame con alguien",
+    "quiero un asesor",
+    "hablar con operador"
+  ]
+}
